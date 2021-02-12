@@ -63,7 +63,8 @@ $this->params['breadcrumbs'][] = $this->title;
                     ]) ?>
 
                     <div class="form-group">
-                        <?= Html::submitButton('Submit', ['class' => 'btn btn-primary', 'name' => 'contact-button']) ?>
+                    <a class="btn btn-lg btn-success" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Submit</a>
+                        <!-- <?= Html::submitButton('Submit', ['class' => 'btn btn-primary', 'name' => 'contact-button']) ?> -->
                     </div>
 
                 <?php ActiveForm::end(); ?>
