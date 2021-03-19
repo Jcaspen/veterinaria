@@ -1,4 +1,4 @@
-Proyecto integrado
+Proyecto Veterinaria Servais
 ==================
 
 Este es el documento principal, que incluye la portada  y el índice de contenidos.

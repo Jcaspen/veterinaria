@@ -7,6 +7,9 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
+
+    <p><img src="'.Yii::app()->request->baseUrl.'yii/guia/images/LogoBueno.png" /></p>
+   
         <h1>SERVAIS VETERINARIA</h1>
 
         <p class="lead">¡Mirando por el futuro de tu mascota!.</p>

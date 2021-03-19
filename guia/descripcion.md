@@ -1,10 +1,11 @@
 # Descripción general del proyecto
 
-Explicar.
+Aplicación Web para una veterinaria.
 
 ## Funcionalidad principal de la aplicación
 
-Explicar.
+Poder administrar animales, vacunas y clientes, así como una parte de la web para clientes con
+tienda para comprar.
 
 ## Objetivos generales
 
@@ -12,13 +13,10 @@ A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
 
 Por ejemplo:
 
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
+* Objetivo: "gestionar vacunas de animales".
+* Casos de uso: "vacunar a un animal", "comprar un producto".
 
 ## URL del repositorio
 
-[https://github.com/ricpelo/proyecto](https://github.com/ricpelo/proyecto)
+[https://github.com/Jcaspen/veterinaria](https://github.com/Jcaspen/veterinaria)
 
-## URL de la documentación
-
-[https://ricpelo.github.io/proyecto](https://ricpelo.github.io/proyecto)
