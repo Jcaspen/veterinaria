@@ -17,6 +17,6 @@ CREATE TABLE usuarios
 
 
 INSERT INTO usuarios (login, password,rol)
-   VALUES ('jlcast', crypt('jlcast1988', gen_salt('bf', 10)),'mediador')
+   VALUES ('jlcast', crypt('jlcast1988', gen_salt('bf', 10)),'cliente')
         , ('admin', crypt('admin', gen_salt('bf', 10)),'admin')
-        , ('agente', crypt('agente', gen_salt('bf', 10)),'agente');
+        , ('agente', crypt('agente', gen_salt('bf', 10)),'veterinario');
