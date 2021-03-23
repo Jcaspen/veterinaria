@@ -1,67 +1,58 @@
-Proyecto Veterinaria Servais
-==================
+# Proyecto Veterinaria Servais
 
-Este es el documento principal, que incluye la portada  y el índice de contenidos.
-
+Este es el documento principal, que incluye la portada y el índice de contenidos.
+ahora si
 Descripción general
--------------------
 
-* [Descripción general](descripcion.md)
+---
 
-  * [Funcionalidad principal de la aplicación](descripcion.md#funcionalidad-principal-de-la-aplicacion)
-  * [Objetivos generales](descripcion.md#objetivos-generales)
-  * [URL del repositorio](descripcion.md#url-del-repositorio)
-  * [URL de la documentación](descripcion.md#url-de-la-documentacion)
+- [Descripción general](descripcion.md)
 
-Instrucciones de instalación y despliegue
------------------------------------------
+  - [Funcionalidad principal de la aplicación](descripcion.md#funcionalidad-principal-de-la-aplicacion)
+  - [Objetivos generales](descripcion.md#objetivos-generales)
+  - [URL del repositorio](descripcion.md#url-del-repositorio)
+  - [URL de la documentación](descripcion.md#url-de-la-documentacion)
 
-* [Instrucciones de instalación y despliegue](instalacion.md)
+## Instrucciones de instalación y despliegue
 
-  * [En local](instalacion.md#en-local)
-  * [En la nube](instalacion.md#en-la-nube)
+- [Instrucciones de instalación y despliegue](instalacion.md)
 
-Catálogo de requisitos
-----------------------
+  - [En local](instalacion.md#en-local)
+  - [En la nube](instalacion.md#en-la-nube)
 
-* [Catálogo de requisitos](requisitos.md)
+## Catálogo de requisitos
 
-  * [Cuadro resumen](requisitos.md#cuadro-resumen)
+- [Catálogo de requisitos](requisitos.md)
 
-Manual de usuario
------------------
+  - [Cuadro resumen](requisitos.md#cuadro-resumen)
 
-* [Manual de usuario](manual.md)
+## Manual de usuario
 
-Decisiones adoptadas
---------------------
+- [Manual de usuario](manual.md)
 
-* [Decisiones adoptadas](decisiones.md)
+## Decisiones adoptadas
 
-Dificultades encontradas
-------------------------
+- [Decisiones adoptadas](decisiones.md)
 
-* [Dificultades encontradas](dificultades.md)
+## Dificultades encontradas
 
-Diagramas
----------
+- [Dificultades encontradas](dificultades.md)
 
-* [Diagramas](diagramas.md)
+## Diagramas
 
-  * [Diagramas de clases](diagramas.md#diagramas-de-clases)
-  * [Diagramas de estructura lógica de datos](diagramas.md#diagramas-de-estructura-logica-de-datos)
+- [Diagramas](diagramas.md)
 
-Glosario de términos
---------------------
+  - [Diagramas de clases](diagramas.md#diagramas-de-clases)
+  - [Diagramas de estructura lógica de datos](diagramas.md#diagramas-de-estructura-logica-de-datos)
 
-* [Glosario de términos](glosario.md)
+## Glosario de términos
 
-Conclusiones
-------------
+- [Glosario de términos](glosario.md)
 
-* [Conclusiones](conclusiones.md)
+## Conclusiones
 
-Anexos
-------
+- [Conclusiones](conclusiones.md)
 
-* [Anexos](anexos.md)
+## Anexos
+
+- [Anexos](anexos.md)
